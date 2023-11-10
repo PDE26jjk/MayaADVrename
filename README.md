@@ -165,7 +165,7 @@ def LabelJointsToMatchADV(_):
 
 ## 五、ADV构建
 
-<img src="C:/Users/26jjk/AppData/Roaming/Typora/typora-user-images/image-20231110231809867.png" alt="image-20231110231809867" style="zoom:50%;" />
+<img src="https://raw.githubusercontent.com/PDE26jjk/misc/main/img/image-20231110231809867.png" alt="image-20231110231809867" style="zoom:50%;" />
 
 构建结果，这里用米家模型做示例。还需手动调整控制器曲线的大小，可能还要打组控制下位置，不过比从头来创建快多了。
 
